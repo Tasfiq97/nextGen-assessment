@@ -11,7 +11,7 @@ import "./Status.css"
 const Status = () => {
     return (
         <div className='px-16 py-8'>
-            <h1 className='ml-20 font-bold company-align'>Company Status</h1>
+            <h1 className='lg:ml-20 font-bold company-align'>Company Status</h1>
             <div className='lg:flex px-10 py-5 card-small ' >
                 <div className='ml-5'>
                     

@@ -14,7 +14,7 @@ const MainDashboard = () => {
             
 <nav className=" px-8 sm:px-4 py-8 rounded dark:bg-gray-900">
   <div className="container flex flex-wrap items-center justify-between mx-auto">
-    <span  className="flex items-center heading-size">
+    <span  className="flex items-center">
         <h1 style={{fontSize:"40px",color:"#102048",fontWeight:"700"}}  className="self-center whitespace-nowrap dark:text-white px-16 pt-20 heading-size ">Dashboard</h1>
     </span>
   </div>
