@@ -1,0 +1,39 @@
+ .heightClass{
+    height: 124%;
+    margin-top: 0;
+    /* width: 0vh; */
+ }
+ .color{
+   background-color:  #1E2772;
+ }
+
+ @media only screen and (max-width: 980px) and (min-width: 320px)  {
+  .align-sidebar{
+    justify-content: flex-start;
+    margin-left: 0;
+  }
+  .sidebar-align{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  
+  
+}
+@media only screen and (max-width: 980px) and (min-width: 320px)  {
+  .align-sidebar{
+    justify-content: flex-start;
+    /* margin-left: 10px; */
+    padding: 10px;
+  }
+  .sidebar-align{
+    margin-left: 0;
+    margin-right: 0;
+  }
+  .setting-align{
+    margin-left: 80px;
+  }
+  
+}
+
+
+ /* setting-align */
